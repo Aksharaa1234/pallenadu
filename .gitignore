@@ -13,3 +13,6 @@ count.txt
 __unconfig*
 todos.json
 .vercel
+
+# Local Netlify folder
+.netlify
